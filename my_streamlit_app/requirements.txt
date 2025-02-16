@@ -1,0 +1,6 @@
+flask
+streamlit
+requests
+sqlite3
+google.generativeai
+langchain
