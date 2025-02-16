@@ -1,1 +1,1 @@
-# SQLSensei----AI-powered-SQL-Chatbot
+# SQLGPT----AI-powered-SQL-Chatbot
