@@ -20,7 +20,7 @@ SQL Query Generation: Along with answers, it generates SQL queries for advanced 
 
 Technology Stack:
 Frontend: Streamlit (for an interactive and user-friendly interface)
-Backend: Google Gemini for natural language processing and query generation
+Backend: Google Gemini model for natural language processing and query generation
 Database: SQLite (as a company database that gets dynamically updated)
 
 User Flow:
