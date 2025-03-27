@@ -8,7 +8,7 @@ SQL-GPT leverages Google Gemini to create an intelligent chatbot capable of unde
 
 Frontend Overview:
 The frontend of SQL-GPT is built using Streamlit, a powerful Python framework designed for creating interactive and user-friendly web applications. It provides a clean and intuitive interface that enhances the user experience, making it easy for both technical and non-technical users to interact with the company database using natural language queries.
-
+  
 ##Frontend
 ![Frontend](Workingapp_Frontend.png)
 
