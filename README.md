@@ -1,13 +1,13 @@
-# SQLGPT----AI-powered-SQL-Chatbot
+# QueryGenie----AI-powered-SQL-Chatbot
 
 💻Problem Statement:
 Managing and analyzing massive datasets manually is a daunting task, especially when the database is dynamic, constantly updated by users. With a database containing over 1,000,000 records, manually searching, filtering, and analyzing data becomes inefficient and error-prone. This challenge demands an intelligent solution that can not only provide accurate answers but also generate the corresponding SQL queries.
 
 Solution Overview:
-SQL-GPT leverages Google Gemini to create an intelligent chatbot capable of understanding complex user queries and providing precise answers with an accuracy of up to 90%. Additionally, it generates the corresponding SQL queries, enabling users to validate the results or further analyze the data.
+QueryGenie leverages Google Gemini to create an intelligent chatbot capable of understanding complex user queries and providing precise answers with an accuracy of up to 90%. Additionally, it generates the corresponding SQL queries, enabling users to validate the results or further analyze the data.
 
 Frontend Overview:
-The frontend of SQL-GPT is built using Streamlit, a powerful Python framework designed for creating interactive and user-friendly web applications. It provides a clean and intuitive interface that enhances the user experience, making it easy for both technical and non-technical users to interact with the company database using natural language queries.
+The frontend of QueryGenie is built using Streamlit, a powerful Python framework designed for creating interactive and user-friendly web applications. It provides a clean and intuitive interface that enhances the user experience, making it easy for both technical and non-technical users to interact with the company database using natural language queries.
   
 ##Frontend
 ![Frontend](Workingapp_Frontend.png)
